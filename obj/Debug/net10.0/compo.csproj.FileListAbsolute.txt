@@ -1,0 +1,14 @@
+/Users/mac/Desktop/compo/bin/Debug/net10.0/compo
+/Users/mac/Desktop/compo/bin/Debug/net10.0/compo.deps.json
+/Users/mac/Desktop/compo/bin/Debug/net10.0/compo.runtimeconfig.json
+/Users/mac/Desktop/compo/bin/Debug/net10.0/compo.dll
+/Users/mac/Desktop/compo/bin/Debug/net10.0/compo.pdb
+/Users/mac/Desktop/compo/obj/Debug/net10.0/compo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/compo/obj/Debug/net10.0/compo.AssemblyInfoInputs.cache
+/Users/mac/Desktop/compo/obj/Debug/net10.0/compo.AssemblyInfo.cs
+/Users/mac/Desktop/compo/obj/Debug/net10.0/compo.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/compo/obj/Debug/net10.0/compo.dll
+/Users/mac/Desktop/compo/obj/Debug/net10.0/refint/compo.dll
+/Users/mac/Desktop/compo/obj/Debug/net10.0/compo.pdb
+/Users/mac/Desktop/compo/obj/Debug/net10.0/compo.genruntimeconfig.cache
+/Users/mac/Desktop/compo/obj/Debug/net10.0/ref/compo.dll
