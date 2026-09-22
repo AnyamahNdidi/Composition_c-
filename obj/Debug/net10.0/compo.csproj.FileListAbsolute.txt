@@ -12,3 +12,4 @@
 /Users/mac/Desktop/compo/obj/Debug/net10.0/compo.pdb
 /Users/mac/Desktop/compo/obj/Debug/net10.0/compo.genruntimeconfig.cache
 /Users/mac/Desktop/compo/obj/Debug/net10.0/ref/compo.dll
+/Users/mac/Desktop/compo/obj/Debug/net10.0/compo.sourcelink.json

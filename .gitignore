@@ -1,0 +1,38 @@
+# Build
+[Bb]in/
+[Oo]bj/
+artifacts/
+
+# Visual Studio / VSCode
+.vs/
+.vscode/
+.idea/
+
+# User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet & packages
+packages/
+*.nupkg
+
+# Test results / coverage
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Publish / generated
+publish/
+ref/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & DB
+*.log
+*.db
+*.dbmdl
